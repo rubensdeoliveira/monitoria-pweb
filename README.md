@@ -25,3 +25,5 @@
 - Baixar versão LTS e instalar
 
 - Para instalar bastar dar next, next ...
+
+- Rodar `node -v` para verificar a versão e confirmar que a instação ocorreu com sucesso.
