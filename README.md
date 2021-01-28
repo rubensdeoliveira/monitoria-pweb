@@ -18,8 +18,7 @@
 
 ### 3.1 Node.js
 
-- Acessar o site do Node.js
-[Node.js](https://nodejs.org/en/)
+- Acessar o site do [Node.js](https://nodejs.org/en/)
 
 - Baixar versão LTS e instalar
 
@@ -36,8 +35,7 @@
 - Rodar no terminal `yarn -version` para verificar se a instação ocorreu com sucesso
 
 ### 3.3 VS Code
-- Acessar o site do VS Code
-[VS Code](https://code.visualstudio.com/download)
+- Acessar o site do [VS Code](https://code.visualstudio.com/download)
 
 - Baixar e instalar o VS Code
 
@@ -62,8 +60,7 @@ Extensões úteis (não obrigatórias):
 
 ### 3.5 Postbird
 
-- Acessar site do Postbird
-[Postbird](https://www.electronjs.org/apps/postbird)
+- Acessar site do [Postbird](https://www.electronjs.org/apps/postbird)
 
 - Baixar a versão .exe
 
@@ -71,8 +68,7 @@ Extensões úteis (não obrigatórias):
 
 ### 3.6 Git e Github
 
-- Acessar o site do Git
-[Git](https://git-scm.com/downloads)
+- Acessar o site do [Git](https://git-scm.com/downloads)
 
 - Para instalar bastar dar next, next ...
 
@@ -87,8 +83,7 @@ Rodar no terminal os comandos abaixo para configurar o git alterando os dados pr
 
 ### 3.7 Insomnia
 
-- Acessar o site do Insomnia
-[Insomnia](https://insomnia.rest/download/)
+- Acessar o site do [Insomnia](https://insomnia.rest/download/)
 
 - Selecionar a opção de download Insomnia Core for Windows
 
