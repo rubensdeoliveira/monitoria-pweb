@@ -1,11 +1,11 @@
 # Tutorial de instalação de ferramentas para o desenvolvimento com Typescript
 
-## Tecnologias
+## 1. Tecnologias
 - Next.js
 - Node.js (express.js)
 - Postgres
 
-## Ferramentas
+## 2. Ferramentas
 - Node
 - Yarn
 - VS Code
@@ -15,10 +15,13 @@
 - Terminal oh my zsh
 - Git e Github
 
-## Tutorial
+## 3. Tutorial
 
-### Node.js
+### 3.1 Node.js
 
-#### Acessar o site do Node.js
-
+- Acessar o site do Node.js
 [Node.js](https://nodejs.org/en/)
+
+- Baixar versão LTS e instalar
+
+- Para instalar bastar dar next, next ...
