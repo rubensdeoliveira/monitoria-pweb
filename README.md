@@ -69,7 +69,7 @@ Extensões úteis (não obrigatórias):
 
 - Instalar (instala automaticamente e já abre o programa)
 
-### Git e Github
+### 3.6 Git e Github
 
 - Acessar o site do Git
 [Git](https://git-scm.com/downloads)
@@ -83,6 +83,41 @@ Rodar no terminal os comandos abaixo para configurar o git alterando os dados pr
 - `git config --global user.name "Your Name"`
 - `git config --global user.email "youremail@yourdomain.com"`
 
+- Criar conta no github
 
+### 3.7 Insomnia
 
+- Acessar o site do Insomnia
+[Insomnia](https://insomnia.rest/download/)
+
+- Selecionar a opção de download Insomnia Core for Windows
+
+- Instalar o Insomnia
+
+## 4 Começar com Tecnologias
+
+### Next.js
+
+- Crie a pasta do seu projeto
+
+- No terminal entre na pasta dos seus projetos
+
+- Rode no terminal `yarn global add @create-next-app/core`
+
+- Rode no terminal `create-next-app my-app` (troque my_app pelo nome do seu projeto)
+
+- Rode no terminal `cd my-app` (troque my_app pelo nome do seu projeto)
+
+- Rode no terminal `yarn dev`
+
+- Acesse o endereço [localhost:3000](http://localhost:3000/) no seu navegador
+
+### Postgres
+
+- Comece rodando o comando abaixo:
+`docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres`
+
+> Altere onde tem database para o nome da imagem que deseja e na opção postgres_password. Escolha uma senha segura para o banco.
+
+- Entre no postbird e nos campos de username e password coloque postgres e docker, respectivamente
 
