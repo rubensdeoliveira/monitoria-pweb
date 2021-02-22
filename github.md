@@ -23,9 +23,9 @@ Agora que o git já está instalado, podemos fazer o primeiro commit seguindo o 
 - Crie um novo repositório de acordo com as imagens abaixo:
 <br />
 <div>
-  <img src="repo/imgs/1.png" alt="demo" height="320" hspace="20">
-  <img src="repo/imgs/2.png" alt="demo" height="425" hspace="20">
-  <img src="repo/imgs/3.png" alt="demo" height="425" hspace="20">
+  <img src="repo/imgs/1.png" alt="demo" height="300" hspace="20">
+  <img src="repo/imgs/2.png" alt="demo" height="600" hspace="20">
+  <img src="repo/imgs/3.png" alt="demo" height="600" hspace="20">
 </div>
 <br />
 
