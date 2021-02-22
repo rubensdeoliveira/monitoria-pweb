@@ -65,5 +65,11 @@ Agora que o git já está instalado, podemos fazer o primeiro commit seguindo o 
 - No terminal rode o comando `git push origin master`, caso não funcione rode o comando `git push origin main`
 > O Github está substituindo o repositório master por main aos poucos, por isso às vezes um repositório novo é criado como master e às vezes como main
 
-## 4. Links e referências
+## 4. Comando úteis
+- `git status` - Exibe o status dos seus commits
+- `git add .` - Adiciona seus arquivos para o index
+- `git commit -m "mensagem"` - Adicionar um commit com mensagem
+- `git log` - Vê os logs dos seus commits 
+
+## 5. Links e referências
 - https://www.treinaweb.com.br/blog/git-e-github-quais-as-diferencas/
