@@ -48,5 +48,6 @@ Agora que o git já está instalado, podemos fazer o primeiro commit seguindo o 
 <br />
 <img src="repo/imgs/5.png" alt="demo" height="600">
 <br />
+
 - No terminal rode o comando `git push origin master`, caso não funcione rode o comando `git push origin main`
 > O Github está substituindo o repositório master por main aos poucos, por isso às vezes um repositório novo é criado como master e às vezes como main
