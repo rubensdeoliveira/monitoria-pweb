@@ -5,4 +5,4 @@
 - [Tutorial de Git/Github](mds/github.md)
 
 ## Projetos
-- [Node.js - Projeto 1](projects/node-project-1/README.md)
+- [Node.js - Projeto 1](https://github.com/rubensojunior/monitoria-pweb/tree/main/projects/node-project-1)
