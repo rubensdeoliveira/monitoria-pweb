@@ -5,4 +5,5 @@
 - [Tutorial de Git/Github](mds/github.md)
 
 ## Projetos
-- [Node.js - Projeto 1](https://github.com/rubensojunior/monitoria-pweb/tree/main/projects/node-project-1)
+- [Projeto 1 - Introdução ao Node.js](https://github.com/rubensojunior/monitoria-pweb/tree/main/projects/1-node)
+- [Projeto 2 - Conectando frontend e backend com Node.js e Next.js](https://github.com/rubensojunior/monitoria-pweb/tree/main/projects/2-node-next)
