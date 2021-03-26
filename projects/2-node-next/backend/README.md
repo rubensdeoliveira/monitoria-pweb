@@ -1,4 +1,4 @@
-# Node - Projeto 1
+# Projeto 2 - Node.js
 
 ## Instalação
 
