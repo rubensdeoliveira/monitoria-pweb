@@ -2,5 +2,5 @@
 
 ## Instalação
 
-`yarn`
-`yarn dev`
+```yarn```
+```yarn dev```

@@ -2,8 +2,8 @@
 
 ## Instalação
 
-`yarn`
-`yarn dev`
+```yarn```
+```yarn dev```
 
 > Alterar o arquivo src/config/database.js para seus dados do postgres
 
